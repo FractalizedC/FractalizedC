@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/FractalizedC/FractalizedC/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
