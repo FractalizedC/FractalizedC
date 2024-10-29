@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FractalizedC&label=Profile%20views&color=0e75b6&style=flat" alt="FractalizedC" />
+</p>
+
 ![canar proj](https://github.com/user-attachments/assets/786aad6d-4d8a-4a12-affc-4b55b9a9d2c8)
 
 
