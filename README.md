@@ -52,4 +52,4 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FractalizedC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FractalizedC&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
