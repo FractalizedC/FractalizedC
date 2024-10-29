@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FractalizedC&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# GH Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FractalizedC&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FractalizedC&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
