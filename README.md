@@ -53,5 +53,6 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={FractalizedC})
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=FractalizedC&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
