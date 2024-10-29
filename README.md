@@ -3,7 +3,6 @@
 
 ###
 
-#  About Me:
 
 
 <h3 align="left">Skills & Tools</h3>
